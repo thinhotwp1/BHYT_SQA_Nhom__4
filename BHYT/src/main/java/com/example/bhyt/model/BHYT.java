@@ -15,7 +15,7 @@ public class BHYT {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String hoTen;
-    private String CCCD;
+    private String cccd;
     private String ngaySinh;
     private String tinhThanh;
     private String huyen;
